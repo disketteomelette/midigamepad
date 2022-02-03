@@ -1,6 +1,6 @@
 # midigamepad
 
-midigamepad is a vb6 app based on the work of 'Midi-Töne' by Daniel Aue, who also used the work of K. Kangbein, David Churcher, Zane Thomas and Mabry Software. Thanks to them! This is a very simple example of the application of MIDI as a gaming controller to play (specially) World of Warcraft. 
+midigamepad is a vb6 app based on the work of 'Midi-Töne' by Daniel Aue, who also used the work of K. Kangbein, David Churcher, Zane Thomas and Mabry Software. Thanks to them! This is a very simple example of the application of MIDI (a music pad) as a gaming controller to play (specially) World of Warcraft. 
 
 ![midigamepad-sample](https://raw.githubusercontent.com/disketteomelette/midigamepad/main/sample.gif)
 
