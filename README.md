@@ -1,9 +1,9 @@
 # midigamepad
 
-midigamepad is a vb6 app based on the work of 'Midi-Töne' by Daniel Aue, who also used the work of K. Kangbein, David Churcher, Zane Thomas and Mabry Software. Thanks to them! This is a very simple example of the application of MIDI (a music pad) as a gaming controller to play (specially) World of Warcraft. 
+"Midigamepad" is a VB6 application based on the work of Daniel Aue's "Midi-Töne", which utilizes the work of K. Kangbein, David Churcher, Zane Thomas, and Mabry Software. This software demonstrates how MIDI can be used as a gaming controller for playing games like World of Warcraft. 
 
 ![midigamepad-sample](https://raw.githubusercontent.com/disketteomelette/midigamepad/main/sample.gif)
 
-I've created this software to be compatible with my AKAI MPK MINI 3, but it should works with other controllers. If you want to configure it at your own, just edit the textboxes with the second byte + the "real" key of the keyboard that you want to activate then. If program doesn't work, please be sure that you got MSVB6 runtimes installed or in the same folder of midigamepad.
+I created this software to be compatible with my AKAI MPK MINI 3, but it should also work with other controllers. If you need to configure it, simply edit the text boxes with the second byte and the "real" keyboard key that you want to activate. If the program doesn't work, please ensure that you have the MSVB6 runtimes installed or in the same folder as Midigamepad.
 
 ![midigamepad-ide](https://raw.githubusercontent.com/disketteomelette/midigamepad/main/midigamepad_ide.jpg)
